@@ -1,0 +1,15 @@
+{
+  "name": "lemma-compass",
+  "displayName": "Lemma Compass",
+  "version": "1.0.0",
+  "description": "Turn a messy decision into clear options, the tradeoffs that actually change it, and one next step. Untangle a stuck situation, compare real alternatives, stress-test a direction before you commit, and record why you decided — without invented scores or a committee of AI personas.",
+  "author": {
+    "name": "Lemma Company",
+    "email": "hello@lemma.company",
+    "url": "https://lemma.company"
+  },
+  "homepage": "https://lemma.company",
+  "repository": "https://github.com/Lemma-Company/lemma-compass",
+  "license": "MIT",
+  "keywords": ["decisions", "tradeoffs", "planning", "pre-mortem", "writing"]
+}
