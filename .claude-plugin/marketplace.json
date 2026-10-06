@@ -1,0 +1,16 @@
+{
+  "name": "lemma-compass",
+  "description": "Lemma Compass — decision skills for Claude. Untangle a situation nobody has framed yet, compare options you already have, stress-test a direction before committing, and record why you decided.",
+  "owner": {
+    "name": "Lemma",
+    "email": "hello@lemma.company",
+    "url": "https://lemma.company"
+  },
+  "plugins": [
+    {
+      "name": "lemma-compass",
+      "source": "./",
+      "description": "Turn a messy decision into clear options, the tradeoffs that actually change it, and one next step. No invented scores, no committee of AI personas, no server — four skills and nothing else."
+    }
+  ]
+}
