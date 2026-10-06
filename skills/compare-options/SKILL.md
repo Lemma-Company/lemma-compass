@@ -1,6 +1,6 @@
 ---
 name: compare-options
-description: Compares alternatives in a choice the user themselves is facing — the real tradeoffs, what is reversible, what each costs in foregone opportunity, where the downside is lopsided. Use when they have specific options on the table ("A or B", two offers, build or buy, stay or go, take it or wait) and the answer turns on their situation. Not for comparing tools, products or technologies on their merits: a question answered by facts about the things themselves is an ordinary question, not a decision to frame.
+description: Compares alternatives in a choice the user themselves is facing — the real tradeoffs, what is reversible, what each costs in foregone opportunity, where the downside is lopsided. Use when they have specific options on the table ("A or B", two offers, build or buy, stay or go, take it or wait) and the answer turns on their situation. Not for comparing tools, products or technologies on their merits — a question answered by facts about the things themselves is an ordinary question, not a decision to frame.
 ---
 
 # Compare real options
