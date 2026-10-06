@@ -11,5 +11,12 @@
   "homepage": "https://lemma.company",
   "repository": "https://github.com/Lemma-Company/lemma-compass",
   "license": "MIT",
-  "keywords": ["decisions", "tradeoffs", "planning", "pre-mortem", "writing"]
+  "keywords": [
+    "decisions",
+    "tradeoffs",
+    "planning",
+    "pre-mortem",
+    "writing"
+  ],
+  "icon": "./assets/logo.png"
 }
