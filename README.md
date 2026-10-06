@@ -10,6 +10,20 @@ It focuses on the few tradeoffs and unknowns that actually change the answer. No
 invented scores, no weighted matrices built from numbers nobody measured, and no
 committee of AI personas arguing with itself.
 
+## What's in this repository
+
+Four `SKILL.md` files, a manifest, a README and a licence. Nothing else.
+
+- **No executable code.** No scripts, no hooks, no `bin/`, no build step, no
+  dependencies. Every file in `skills/` is Markdown that Claude reads.
+- **No MCP server and no connector.** There is nothing to authorise, no account
+  to create, no API key, no URL the plugin talks to.
+- **No network access and no storage.** The plugin makes no requests of its own
+  and keeps no data. It has no memory between conversations.
+
+What it changes is how Claude approaches a decision you describe — nothing more
+and nothing less.
+
 ## Try it
 
 > "I have three competing options and I can't tell what actually matters."
