@@ -35,10 +35,11 @@ right one; type `/` if you'd rather choose yourself.
 
 ## How it works
 
-Four skills, nothing else: no server, no connector to authorise, no account, no
-network access, nothing that runs on your machine. The plugin is Markdown and a
-manifest, and everything it does happens in the conversation you're already
-having. Nothing leaves it.
+Four skills, nothing else: no server, no connector to authorise, no account,
+nothing that runs on your machine. The plugin is Markdown and a manifest: it
+makes no network requests of its own and stores no data anywhere. Everything it
+does happens in the conversation you're already having, under whatever terms
+that conversation already has.
 
 That also means Compass has no memory between conversations. A decision note is
 yours to keep wherever you keep things.
@@ -64,7 +65,7 @@ Claude Code:
 
 ```
 claude plugin marketplace add Lemma-Company/lemma-compass
-claude plugin install lemma-compass@lemma
+claude plugin install lemma-compass@lemma-compass
 ```
 
 Claude app and Cowork: **Customize → Plugins**.
